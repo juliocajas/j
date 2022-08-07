@@ -1,6 +1,13 @@
 #EXTM3U
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="kXMYmhjxZmGbNXZeJ4fdtTqbmyMkkybJEftK4B7dKxUbr5z3hf8McktHPmvKv3xlCbqC8AWnyprzPJxUT7MKMeayVykCAJCiXULHKNCYXBdB7cOkw9EKZ622hB7Wp2dP3RbXtzCKPXJ7waLqX83bq7VCdq2jZx6d2gcH4TtKm2S3ZMGnbC3hNUKeCLCMpdi9PDQHLp3iycHYRXcuWMvBinXQPZd"
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="FSXCxcjhdfKDJFKJDSFNSDFSJDSFDJFSDKFJKSDNNCNVFHVIREJKJDFJDHJJERBNXDSDSDHDFNBCVMMMDSJHFDFDJFHJDSFBNCVNXBCNVXCVDHSJFDSFNMNMCVNBDSFJDSFBCXVCXNVBNDFSDJFJXCMVNJMXCVMDHJFDSFNBSFDSNFDFSDFSDMNCVIIREIUIDKSKKDFBVmnfdfhuyJHDHFJHSDFJFJHFDJVKFGHDGBNCVJHDFKDFDFDSFSDFSVCVDFWWQEWRWTRYYTsjdksJSDJSDNjsjdsIDFI"
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kHj0xS7/tv-station-win-sports-plus-2457.png" tvg-group="DEPORTES", WIN SPORTS PLUS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/winplus.json
-http://mzd6d9nbr2r5x3hkw2ndk.xyz/650/kmUBeniXTaz58vNrdDhGXalkDzLyWrD.m3u8
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/starplaynecesitaquenosapoyesabriendoanuncios3vecesaldia--y--descarganuestraaplicacionengoogleplaystore-starplay-tu-app-oficial/abredos3anunciosaldiaycompartelaappcontodostusamigos--descarga-starplay-en-play-store/588.ts
+
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="FSXCxcjhdfKDJFKJDSFNSDFSJDSFDJFSDKFJKSDNNCNVFHVIREJKJDFJDHJJERBNXDSDSDHDFNBCVMMMDSJHFDFDJFHJDSFBNCVNXBCNVXCVDHSJFDSFNMNMCVNBDSFJDSFBCXVCXNVBNDFSDJFJXCMVNJMXCVMDHJFDSFNBSFDSNFDFSDFSDMNCVIIREIUIDKSKKDFBVmnfdfhuyJHDHFJHSDFJFJHFDJVKFGHDGBNCVJHDFKDFDFDSFSDFSVCVDFWWQEWRWTRYYTsjdksJSDJSDNjsjdsIDFI"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kHj0xS7/tv-station-win-sports-plus-2457.png" tvg-group="DEPORTES", WIN SPORTS PLUS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/winplus.json
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/starplaynecesitaquenosapoyesabriendoanuncios3vecesaldia--y--descarganuestraaplicacionengoogleplaystore-starplay-tu-app-oficial/abredos3anunciosaldiaycompartelaappcontodostusamigos--descarga-starplay-en-play-store/632.ts
