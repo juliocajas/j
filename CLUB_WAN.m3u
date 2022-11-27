@@ -20,6 +20,10 @@ https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HdKSxVB/5bb7948502f9a1d774cf5ef8b47b7042.jpg" tvg-group="ECUADOR", OROMAR
 https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HdKSxVB/5bb7948502f9a1d774cf5ef8b47b7042.jpg" tvg-group="ECUADOR", OROMAR
+#EXTVLCOPT:http-user-agent=rNx7znJAj2jBkjrLVFRmX9bW8DKDvg8Y7ScN8feMh7xBOniYdEpLc7HrNPHmz8rDzgUu8CTeN2mu2d6r4VitBzZUhM78879y5hAJjiTJKDFJU89YchVk37AqS8Hyk9wQG8k7gPqT9DPM945mBm7GHgyu776yuT67TUT878yT78G5434D8xtJ5NtSrdSjtpwJ7Ygyu8G67D6U5545y7D72fzUFKbcv7NpH7r
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/743/ktfi3Kd8ePhZe8ZNtL6z2dz9rfzTDKb6QVkm7zEKrD.m3u8
+
 #EXTINF:-1 tvg-logo="https://n9.cl/qevwd" group-title="Entretenimiento", ZARACY TV
 https://streamingwowza.com:19360/zaracaytv/zaracaytv.m3u8
 
@@ -31,6 +35,11 @@ https://mzd6d9nbr2r5x3hkw2ndk.xyz/574/ktfi3Kd8ePhZe8ZNtL6z2dz9rfzTDKb6QVkm7zEKrD
 #EXTVLCOPT:http-user-agent=rNx7znJAj2jBkjrLVFRmX9bW8DKDvg8Y7ScN8feMh7xBOniYdEpLc7HrNPHmz8rDzgUu8CTeN2mu2d6r4VitBzZUhM78879y5hAJjiTJKDFJU89YchVk37AqS8Hyk9wQG8k7gPqT9DPM945mBm7GHgyu776yuT67TUT878yT78G5434D8xtJ5NtSrdSjtpwJ7Ygyu8G67D6U5545y7D72fzUFKbcv7NpH7r
 
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/793/ktfi3Kd8ePhZe8ZNtL6z2dz9rfzTDKb6QVkm7zEKrD.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Tc 
+#EXTVLCOPT:http-user-agent=rNx7znJAj2jBkjrLVFRmX9bW8DKDvg8Y7ScN8feMh7xBOniYdEpLc7HrNPHmz8rDzgUu8CTeN2mu2d6r4VitBzZUhM78879y5hAJjiTJKDFJU89YchVk37AqS8Hyk9wQG8k7gPqT9DPM945mBm7GHgyu776yuT67TUT878yT78G5434D8xtJ5NtSrdSjtpwJ7Ygyu8G67D6U5545y7D72fzUFKbcv7NpH7r
+
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/769/ktfi3Kd8ePhZe8ZNtL6z2dz9rfzTDKb6QVkm7zEKrD.m3u8
 
 #EXTINF:-1 tvg-logo="https://n9.cl/rsh5"ECUADOR", RTS
 https://d6op0qag07k4o.cloudfront.net/hls/rts.m3u8
@@ -65,67 +74,55 @@ https://tv.inka.net.pe/cajamarcatv/cajamarcatv/index.m3u8?refresh=534654wmsAuthS
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/By7GRw7/axn.png" tvg-group="CINE Y SERIES", AXN
 #EXTVLCOPT:http-user-agent=rNx7znJAj2jBkjrLVFRmX9bW8DKDvg8Y7ScN8feMh7xBOniYdEpLc7HrNPHmz8rDzgUu8CTeN2mu2d6r4VitBzZUhM78879y5hAJjiTJKDFJU89YchVk37AqS8Hyk9wQG8k7gPqT9DPM945mBm7GHgyu776yuT67TUT878yT78G5434D8xtJ5NtSrdSjtpwJ7Ygyu8G67D6U5545y7D72fzUFKbcv7NpH7r
-
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/438/ktfi3Kd8ePhZe8ZNtL6z2dz9rfzTDKb6QVkm7zEKrD.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="Entretenimiento",A&E
 #EXTVLCOPT:http-user-agent=rNx7znJAj2jBkjrLVFRmX9bW8DKDvg8Y7ScN8feMh7xBOniYdEpLc7HrNPHmz8rDzgUu8CTeN2mu2d6r4VitBzZUhM78879y5hAJjiTJKDFJU89YchVk37AqS8Hyk9wQG8k7gPqT9DPM945mBm7GHgyu776yuT67TUT878yT78G5434D8xtJ5NtSrdSjtpwJ7Ygyu8G67D6U5545y7D72fzUFKbcv7NpH7r
-
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/423/ktfi3Kd8ePhZe8ZNtL6z2dz9rfzTDKb6QVkm7zEKrD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Lv37ZBM/amc.png" tvg-group="CINE Y SERIES", AMC
 #EXTVLCOPT:http-user-agent=rNx7znJAj2jBkjrLVFRmX9bW8DKDvg8Y7ScN8feMh7xBOniYdEpLc7HrNPHmz8rDzgUu8CTeN2mu2d6r4VitBzZUhM78879y5hAJjiTJKDFJU89YchVk37AqS8Hyk9wQG8k7gPqT9DPM945mBm7GHgyu776yuT67TUT878yT78G5434D8xtJ5NtSrdSjtpwJ7Ygyu8G67D6U5545y7D72fzUFKbcv7NpH7r
-
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/432/ktfi3Kd8ePhZe8ZNtL6z2dz9rfzTDKb6QVkm7zEKrD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Lv37ZBM/amc.png" tvg-group="CINE Y SERIES", AMC1
 #EXTVLCOPT:http-user-agent=rNx7znJAj2jBkjrLVFRmX9bW8DKDvg8Y7ScN8feMh7xBOniYdEpLc7HrNPHmz8rDzgUu8CTeN2mu2d6r4VitBzZUhM78879y5hAJjiTJKDFJU89YchVk37AqS8Hyk9wQG8k7gPqT9DPM945mBm7GHgyu776yuT67TUT878yT78G5434D8xtJ5NtSrdSjtpwJ7Ygyu8G67D6U5545y7D72fzUFKbcv7NpH7r
-
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/426/ktfi3Kd8ePhZe8ZNtL6z2dz9rfzTDKb6QVkm7zEKrD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BrNnDFQ/cinemax.png" tvg-group="CINE Y SERIES", CINEMAX
 #EXTVLCOPT:http-user-agent=rNx7znJAj2jBkjrLVFRmX9bW8DKDvg8Y7ScN8feMh7xBOniYdEpLc7HrNPHmz8rDzgUu8CTeN2mu2d6r4VitBzZUhM78879y5hAJjiTJKDFJU89YchVk37AqS8Hyk9wQG8k7gPqT9DPM945mBm7GHgyu776yuT67TUT878yT78G5434D8xtJ5NtSrdSjtpwJ7Ygyu8G67D6U5545y7D72fzUFKbcv7NpH7r
-
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/491/ktfi3Kd8ePhZe8ZNtL6z2dz9rfzTDKb6QVkm7zEKrD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BrNnDFQ/cinemax.png" tvg-group="CINE Y SERIES", CINEMAX
 #EXTVLCOPT:http-user-agent=rNx7znJAj2jBkjrLVFRmX9bW8DKDvg8Y7ScN8feMh7xBOniYdEpLc7HrNPHmz8rDzgUu8CTeN2mu2d6r4VitBzZUhM78879y5hAJjiTJKDFJU89YchVk37AqS8Hyk9wQG8k7gPqT9DPM945mBm7GHgyu776yuT67TUT878yT78G5434D8xtJ5NtSrdSjtpwJ7Ygyu8G67D6U5545y7D72fzUFKbcv7NpH7r
-
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/486/ktfi3Kd8ePhZe8ZNtL6z2dz9rfzTDKb6QVkm7zEKrD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BnBymgY/cinecanal.png" tvg-group="CINE Y SERIES", CINECANAL
 #EXTVLCOPT:http-user-agent=rNx7znJAj2jBkjrLVFRmX9bW8DKDvg8Y7ScN8feMh7xBOniYdEpLc7HrNPHmz8rDzgUu8CTeN2mu2d6r4VitBzZUhM78879y5hAJjiTJKDFJU89YchVk37AqS8Hyk9wQG8k7gPqT9DPM945mBm7GHgyu776yuT67TUT878yT78G5434D8xtJ5NtSrdSjtpwJ7Ygyu8G67D6U5545y7D72fzUFKbcv7NpH7r
-
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/485/ktfi3Kd8ePhZe8ZNtL6z2dz9rfzTDKb6QVkm7zEKrD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZGbW8yM/fx.png" tvg-group="CINE Y SERIES", FX
 #EXTVLCOPT:http-user-agent=rNx7znJAj2jBkjrLVFRmX9bW8DKDvg8Y7ScN8feMh7xBOniYdEpLc7HrNPHmz8rDzgUu8CTeN2mu2d6r4VitBzZUhM78879y5hAJjiTJKDFJU89YchVk37AqS8Hyk9wQG8k7gPqT9DPM945mBm7GHgyu776yuT67TUT878yT78G5434D8xtJ5NtSrdSjtpwJ7Ygyu8G67D6U5545y7D72fzUFKbcv7NpH7r
-
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/604/ktfi3Kd8ePhZe8ZNtL6z2dz9rfzTDKb6QVkm7zEKrD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YkRGmdb/space.png" tvg-group="CINE Y SERIES", ESPACIO
 #EXTVLCOPT:http-user-agent=rNx7znJAj2jBkjrLVFRmX9bW8DKDvg8Y7ScN8feMh7xBOniYdEpLc7HrNPHmz8rDzgUu8CTeN2mu2d6r4VitBzZUhM78879y5hAJjiTJKDFJU89YchVk37AqS8Hyk9wQG8k7gPqT9DPM945mBm7GHgyu776yuT67TUT878yT78G5434D8xtJ5NtSrdSjtpwJ7Ygyu8G67D6U5545y7D72fzUFKbcv7NpH7r
-
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/759/ktfi3Kd8ePhZe8ZNtL6z2dz9rfzTDKb6QVkm7zEKrD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vjrk31y/hboxtreme.png" tvg-group="CINE Y SERIES", HBO XTREM
 #EXTVLCOPT:http-user-agent=rNx7znJAj2jBkjrLVFRmX9bW8DKDvg8Y7ScN8feMh7xBOniYdEpLc7HrNPHmz8rDzgUu8CTeN2mu2d6r4VitBzZUhM78879y5hAJjiTJKDFJU89YchVk37AqS8Hyk9wQG8k7gPqT9DPM945mBm7GHgyu776yuT67TUT878yT78G5434D8xtJ5NtSrdSjtpwJ7Ygyu8G67D6U5545y7D72fzUFKbcv7NpH7r
-
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/650/ktfi3Kd8ePhZe8ZNtL6z2dz9rfzTDKb6QVkm7zEKrD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FhWCVw7/hboplus.png" "SERIE CINE Y",| HBO+
 #EXTVLCOPT:http-user-agent=rNx7znJAj2jBkjrLVFRmX9bW8DKDvg8Y7ScN8feMh7xBOniYdEpLc7HrNPHmz8rDzgUu8CTeN2mu2d6r4VitBzZUhM78879y5hAJjiTJKDFJU89YchVk37AqS8Hyk9wQG8k7gPqT9DPM945mBm7GHgyu776yuT67TUT878yT78G5434D8xtJ5NtSrdSjtpwJ7Ygyu8G67D6U5545y7D72fzUFKbcv7NpH7r
-
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/640/ktfi3Kd8ePhZe8ZNtL6z2dz9rfzTDKb6QVkm7zEKrD.m3u8
                                        
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rZmZZsw/hbo.png" tvg-group="CINE Y SERIES", HBO
 #EXTVLCOPT:http-user-agent=rNx7znJAj2jBkjrLVFRmX9bW8DKDvg8Y7ScN8feMh7xBOniYdEpLc7HrNPHmz8rDzgUu8CTeN2mu2d6r4VitBzZUhM78879y5hAJjiTJKDFJU89YchVk37AqS8Hyk9wQG8k7gPqT9DPM945mBm7GHgyu776yuT67TUT878yT78G5434D8xtJ5NtSrdSjtpwJ7Ygyu8G67D6U5545y7D72fzUFKbcv7NpH7r
-
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/625/ktfi3Kd8ePhZe8ZNtL6z2dz9rfzTDKb6QVkm7zEKrD.m3u8
 
 #EXTINF:-1 tvg-logo="http://vplay.club:8888/images/1fe777ac276f5f22660a12eb97910b36.png" "SERIE CINE Y",| HBO2
 #EXTVLCOPT:http-user-agent=rNx7znJAj2jBkjrLVFRmX9bW8DKDvg8Y7ScN8feMh7xBOniYdEpLc7HrNPHmz8rDzgUu8CTeN2mu2d6r4VitBzZUhM78879y5hAJjiTJKDFJU89YchVk37AqS8Hyk9wQG8k7gPqT9DPM945mBm7GHgyu776yuT67TUT878yT78G5434D8xtJ5NtSrdSjtpwJ7Ygyu8G67D6U5545y7D72fzUFKbcv7NpH7r
-
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/629/ktfi3Kd8ePhZe8ZNtL6z2dz9rfzTDKb6QVkm7zEKrD.m3u8
 
 
@@ -151,137 +148,111 @@ https://mzd6d9nbr2r5x3hkw2ndk.xyz/655/ktfi3Kd8ePhZe8ZNtL6z2dz9rfzTDKb6QVkm7zEKrD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4XSR3k7.png" tvg-group="CINE Y SERIES", TNT
 #EXTVLCOPT:http-user-agent=rNx7znJAj2jBkjrLVFRmX9bW8DKDvg8Y7ScN8feMh7xBOniYdEpLc7HrNPHmz8rDzgUu8CTeN2mu2d6r4VitBzZUhM78879y5hAJjiTJKDFJU89YchVk37AqS8Hyk9wQG8k7gPqT9DPM945mBm7GHgyu776yuT67TUT878yT78G5434D8xtJ5NtSrdSjtpwJ7Ygyu8G67D6U5545y7D72fzUFKbcv7NpH7r
-
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/803/ktfi3Kd8ePhZe8ZNtL6z2dz9rfzTDKb6QVkm7zEKrD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KNr815G/tntseries.png" tvg-group="CINE Y SERIES", TNT SERIES
 #EXTVLCOPT:http-user-agent=rNx7znJAj2jBkjrLVFRmX9bW8DKDvg8Y7ScN8feMh7xBOniYdEpLc7HrNPHmz8rDzgUu8CTeN2mu2d6r4VitBzZUhM78879y5hAJjiTJKDFJU89YchVk37AqS8Hyk9wQG8k7gPqT9DPM945mBm7GHgyu776yuT67TUT878yT78G5434D8xtJ5NtSrdSjtpwJ7Ygyu8G67D6U5545y7D72fzUFKbcv7NpH7r
-
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/808/ktfi3Kd8ePhZe8ZNtL6z2dz9rfzTDKb6QVkm7zEKrD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WsBhsDZ/ar-paramount-channel-m.png" tvg-group="CINE Y SERIES", PARAMOUNT
 #EXTVLCOPT:http-user-agent=rNx7znJAj2jBkjrLVFRmX9bW8DKDvg8Y7ScN8feMh7xBOniYdEpLc7HrNPHmz8rDzgUu8CTeN2mu2d6r4VitBzZUhM78879y5hAJjiTJKDFJU89YchVk37AqS8Hyk9wQG8k7gPqT9DPM945mBm7GHgyu776yuT67TUT878yT78G5434D8xtJ5NtSrdSjtpwJ7Ygyu8G67D6U5545y7D72fzUFKbcv7NpH7r
-
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/739/ktfi3Kd8ePhZe8ZNtL6z2dz9rfzTDKb6QVkm7zEKrD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z2LQWrH/universal.png" group-title="Entretenimiento" group-title="Entretenimiento",|UNIVERSAL TV0
 #EXTVLCOPT:http-user-agent=rNx7znJAj2jBkjrLVFRmX9bW8DKDvg8Y7ScN8feMh7xBOniYdEpLc7HrNPHmz8rDzgUu8CTeN2mu2d6r4VitBzZUhM78879y5hAJjiTJKDFJU89YchVk37AqS8Hyk9wQG8k7gPqT9DPM945mBm7GHgyu776yuT67TUT878yT78G5434D8xtJ5NtSrdSjtpwJ7Ygyu8G67D6U5545y7D72fzUFKbcv7NpH7r
-
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/820/ktfi3Kd8ePhZe8ZNtL6z2dz9rfzTDKb6QVkm7zEKrD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z2LQWrH/universal.png" group-title="Entretenimiento" group-title="Entretenimiento",|UNIVERSAL TV1
 #EXTVLCOPT:http-user-agent=rNx7znJAj2jBkjrLVFRmX9bW8DKDvg8Y7ScN8feMh7xBOniYdEpLc7HrNPHmz8rDzgUu8CTeN2mu2d6r4VitBzZUhM78879y5hAJjiTJKDFJU89YchVk37AqS8Hyk9wQG8k7gPqT9DPM945mBm7GHgyu776yuT67TUT878yT78G5434D8xtJ5NtSrdSjtpwJ7Ygyu8G67D6U5545y7D72fzUFKbcv7NpH7r
-
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/822/ktfi3Kd8ePhZe8ZNtL6z2dz9rfzTDKb6QVkm7zEKrD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z2LQWrH/universal.png" group-title="Entretenimiento" group-title="Entretenimiento",|UNIVERSAL TV2
 #EXTVLCOPT:http-user-agent=rNx7znJAj2jBkjrLVFRmX9bW8DKDvg8Y7ScN8feMh7xBOniYdEpLc7HrNPHmz8rDzgUu8CTeN2mu2d6r4VitBzZUhM78879y5hAJjiTJKDFJU89YchVk37AqS8Hyk9wQG8k7gPqT9DPM945mBm7GHgyu776yuT67TUT878yT78G5434D8xtJ5NtSrdSjtpwJ7Ygyu8G67D6U5545y7D72fzUFKbcv7NpH7r
-
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/850/ktfi3Kd8ePhZe8ZNtL6z2dz9rfzTDKb6QVkm7zEKrD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z2LQWrH/universal.png" group-title="Entretenimiento" group-title="Entretenimiento",|UNIVERSAL TV
 #EXTVLCOPT:http-user-agent=rNx7znJAj2jBkjrLVFRmX9bW8DKDvg8Y7ScN8feMh7xBOniYdEpLc7HrNPHmz8rDzgUu8CTeN2mu2d6r4VitBzZUhM78879y5hAJjiTJKDFJU89YchVk37AqS8Hyk9wQG8k7gPqT9DPM945mBm7GHgyu776yuT67TUT878yT78G5434D8xtJ5NtSrdSjtpwJ7Ygyu8G67D6U5545y7D72fzUFKbcv7NpH7r
-
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/823/ktfi3Kd8ePhZe8ZNtL6z2dz9rfzTDKb6QVkm7zEKrD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/47G4F78/ureal.png" group-title="Entretenimiento" group-title="Entretenimiento",|REALIDAD UNIVERSAL
 #EXTVLCOPT:http-user-agent=rNx7znJAj2jBkjrLVFRmX9bW8DKDvg8Y7ScN8feMh7xBOniYdEpLc7HrNPHmz8rDzgUu8CTeN2mu2d6r4VitBzZUhM78879y5hAJjiTJKDFJU89YchVk37AqS8Hyk9wQG8k7gPqT9DPM945mBm7GHgyu776yuT67TUT878yT78G5434D8xtJ5NtSrdSjtpwJ7Ygyu8G67D6U5545y7D72fzUFKbcv7NpH7r
-
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/847/ktfi3Kd8ePhZe8ZNtL6z2dz9rfzTDKb6QVkm7zEKrD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/27X3Yt6/ucrime.png" group-title="Entretenimiento" group-title="Entretenimiento",|CRIMEN UNIVERSAL
 #EXTVLCOPT:http-user-agent=rNx7znJAj2jBkjrLVFRmX9bW8DKDvg8Y7ScN8feMh7xBOniYdEpLc7HrNPHmz8rDzgUu8CTeN2mu2d6r4VitBzZUhM78879y5hAJjiTJKDFJU89YchVk37AqS8Hyk9wQG8k7gPqT9DPM945mBm7GHgyu776yuT67TUT878yT78G5434D8xtJ5NtSrdSjtpwJ7Ygyu8G67D6U5545y7D72fzUFKbcv7NpH7r
-
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/826/ktfi3Kd8ePhZe8ZNtL6z2dz9rfzTDKb6QVkm7zEKrD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6vxLfV3/comedycentral.png" group-title="Entretenimiento" group-title="Entretenimiento",|COMEDIA UNIVERSAL
 #EXTVLCOPT:http-user-agent=rNx7znJAj2jBkjrLVFRmX9bW8DKDvg8Y7ScN8feMh7xBOniYdEpLc7HrNPHmz8rDzgUu8CTeN2mu2d6r4VitBzZUhM78879y5hAJjiTJKDFJU89YchVk37AqS8Hyk9wQG8k7gPqT9DPM945mBm7GHgyu776yuT67TUT878yT78G5434D8xtJ5NtSrdSjtpwJ7Ygyu8G67D6U5545y7D72fzUFKbcv7NpH7r
-
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/830/ktfi3Kd8ePhZe8ZNtL6z2dz9rfzTDKb6QVkm7zEKrD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vhyghNC/unpre.png" group-title="Entretenimiento" group-title="Entretenimiento",|ESTRENO UNIVERSAL
 #EXTVLCOPT:http-user-agent=rNx7znJAj2jBkjrLVFRmX9bW8DKDvg8Y7ScN8feMh7xBOniYdEpLc7HrNPHmz8rDzgUu8CTeN2mu2d6r4VitBzZUhM78879y5hAJjiTJKDFJU89YchVk37AqS8Hyk9wQG8k7gPqT9DPM945mBm7GHgyu776yuT67TUT878yT78G5434D8xtJ5NtSrdSjtpwJ7Ygyu8G67D6U5545y7D72fzUFKbcv7NpH7r
-
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/843/ktfi3Kd8ePhZe8ZNtL6z2dz9rfzTDKb6QVkm7zEKrD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Dz3NcB1/ucinema.png" group-title="Entretenimiento" group-title="Entretenimiento",|CINE UNIVERSAL
 #EXTVLCOPT:http-user-agent=rNx7znJAj2jBkjrLVFRmX9bW8DKDvg8Y7ScN8feMh7xBOniYdEpLc7HrNPHmz8rDzgUu8CTeN2mu2d6r4VitBzZUhM78879y5hAJjiTJKDFJU89YchVk37AqS8Hyk9wQG8k7gPqT9DPM945mBm7GHgyu776yuT67TUT878yT78G5434D8xtJ5NtSrdSjtpwJ7Ygyu8G67D6U5545y7D72fzUFKbcv7NpH7r
-
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/829/ktfi3Kd8ePhZe8ZNtL6z2dz9rfzTDKb6QVkm7zEKrD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z7DwS7B/nationalgeo.png" group-title="Entretenimiento",|NATIONAL GEOGRAPHIC
 #EXTVLCOPT:http-user-agent=rNx7znJAj2jBkjrLVFRmX9bW8DKDvg8Y7ScN8feMh7xBOniYdEpLc7HrNPHmz8rDzgUu8CTeN2mu2d6r4VitBzZUhM78879y5hAJjiTJKDFJU89YchVk37AqS8Hyk9wQG8k7gPqT9DPM945mBm7GHgyu776yuT67TUT878yT78G5434D8xtJ5NtSrdSjtpwJ7Ygyu8G67D6U5545y7D72fzUFKbcv7NpH7r
-
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/712/ktfi3Kd8ePhZe8ZNtL6z2dz9rfzTDKb6QVkm7zEKrD.m3u8                                                                                                                                                        
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z7DwS7B/nationalgeo.png" tvg-group="CIENCIA Y CULTURA", NATGEO
 #EXTVLCOPT:http-user-agent=rNx7znJAj2jBkjrLVFRmX9bW8DKDvg8Y7ScN8feMh7xBOniYdEpLc7HrNPHmz8rDzgUu8CTeN2mu2d6r4VitBzZUhM78879y5hAJjiTJKDFJU89YchVk37AqS8Hyk9wQG8k7gPqT9DPM945mBm7GHgyu776yuT67TUT878yT78G5434D8xtJ5NtSrdSjtpwJ7Ygyu8G67D6U5545y7D72fzUFKbcv7NpH7r
-
 http://bulltv.us:2999/darlin/darlin/103
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z7DwS7B/nationalgeo.png" tvg-group="CIENCIA Y CULTURA", DISCOVERY FAMILY
 #EXTVLCOPT:http-user-agent=rNx7znJAj2jBkjrLVFRmX9bW8DKDvg8Y7ScN8feMh7xBOniYdEpLc7HrNPHmz8rDzgUu8CTeN2mu2d6r4VitBzZUhM78879y5hAJjiTJKDFJU89YchVk37AqS8Hyk9wQG8k7gPqT9DPM945mBm7GHgyu776yuT67TUT878yT78G5434D8xtJ5NtSrdSjtpwJ7Ygyu8G67D6U5545y7D72fzUFKbcv7NpH7r
-
 http://bulltv.us:2999/darlin/darlin/103
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QMb31rJ/history.png" tvg-group="CIENCIA Y CULTURA", HISTORIA
 #EXTVLCOPT:http-user-agent=rNx7znJAj2jBkjrLVFRmX9bW8DKDvg8Y7ScN8feMh7xBOniYdEpLc7HrNPHmz8rDzgUu8CTeN2mu2d6r4VitBzZUhM78879y5hAJjiTJKDFJU89YchVk37AqS8Hyk9wQG8k7gPqT9DPM945mBm7GHgyu776yuT67TUT878yT78G5434D8xtJ5NtSrdSjtpwJ7Ygyu8G67D6U5545y7D72fzUFKbcv7NpH7r
-
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/665/ktfi3Kd8ePhZe8ZNtL6z2dz9rfzTDKb6QVkm7zEKrD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z7DwS7B/nationalgeo.png" tvg-group="CIENCIA Y CULTURA", NATGEO
 #EXTVLCOPT:http-user-agent=rNx7znJAj2jBkjrLVFRmX9bW8DKDvg8Y7ScN8feMh7xBOniYdEpLc7HrNPHmz8rDzgUu8CTeN2mu2d6r4VitBzZUhM78879y5hAJjiTJKDFJU89YchVk37AqS8Hyk9wQG8k7gPqT9DPM945mBm7GHgyu776yuT67TUT878yT78G5434D8xtJ5NtSrdSjtpwJ7Ygyu8G67D6U5545y7D72fzUFKbcv7NpH7r
-
 http://bulltv.us:2999/darlin/darlin/104
 
 #EXTINF:-1 tvg-logo="https://n9.cl/fv7e6" group-title="Entretenimiento" group-title="Entretenimiento",|DISCOVERY WORD
 #EXTVLCOPT:http-user-agent=rNx7znJAj2jBkjrLVFRmX9bW8DKDvg8Y7ScN8feMh7xBOniYdEpLc7HrNPHmz8rDzgUu8CTeN2mu2d6r4VitBzZUhM78879y5hAJjiTJKDFJU89YchVk37AqS8Hyk9wQG8k7gPqT9DPM945mBm7GHgyu776yuT67TUT878yT78G5434D8xtJ5NtSrdSjtpwJ7Ygyu8G67D6U5545y7D72fzUFKbcv7NpH7r
-
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/556/ktfi3Kd8ePhZe8ZNtL6z2dz9rfzTDKb6QVkm7zEKrD.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://n9.cl/b80qw" tvg-group="ECUADOR", NATGEO MUNDO
 #EXTVLCOPT:http-user-agent=rNx7znJAj2jBkjrLVFRmX9bW8DKDvg8Y7ScN8feMh7xBOniYdEpLc7HrNPHmz8rDzgUu8CTeN2mu2d6r4VitBzZUhM78879y5hAJjiTJKDFJU89YchVk37AqS8Hyk9wQG8k7gPqT9DPM945mBm7GHgyu776yuT67TUT878yT78G5434D8xtJ5NtSrdSjtpwJ7Ygyu8G67D6U5545y7D72fzUFKbcv7NpH7r
-
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/1131/ktfi3Kd8ePhZe8ZNtL6z2dz9rfzTDKb6QVkm7zEKrD.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="España", HISTORIA 2
 #EXTVLCOPT:http-user-agent=rNx7znJAj2jBkjrLVFRmX9bW8DKDvg8Y7ScN8feMh7xBOniYdEpLc7HrNPHmz8rDzgUu8CTeN2mu2d6r4VitBzZUhM78879y5hAJjiTJKDFJU89YchVk37AqS8Hyk9wQG8k7gPqT9DPM945mBm7GHgyu776yuT67TUT878yT78G5434D8xtJ5NtSrdSjtpwJ7Ygyu8G67D6U5545y7D72fzUFKbcv7NpH7r
-
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/666/ktfi3Kd8ePhZe8ZNtL6z2dz9rfzTDKb6QVkm7zEKrD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SyyDDQB/discovery.png" group-title="RELIGION",DISCOVERI
 #EXTVLCOPT:http-user-agent=rNx7znJAj2jBkjrLVFRmX9bW8DKDvg8Y7ScN8feMh7xBOniYdEpLc7HrNPHmz8rDzgUu8CTeN2mu2d6r4VitBzZUhM78879y5hAJjiTJKDFJU89YchVk37AqS8Hyk9wQG8k7gPqT9DPM945mBm7GHgyu776yuT67TUT878yT78G5434D8xtJ5NtSrdSjtpwJ7Ygyu8G67D6U5545y7D72fzUFKbcv7NpH7r
-
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/518/ktfi3Kd8ePhZe8ZNtL6z2dz9rfzTDKb6QVkm7zEKrD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6PPyvXN/id.png" tvg-group="CIENCIA Y CULTURA", ID
 #EXTVLCOPT:http-user-agent=rNx7znJAj2jBkjrLVFRmX9bW8DKDvg8Y7ScN8feMh7xBOniYdEpLc7HrNPHmz8rDzgUu8CTeN2mu2d6r4VitBzZUhM78879y5hAJjiTJKDFJU89YchVk37AqS8Hyk9wQG8k7gPqT9DPM945mBm7GHgyu776yuT67TUT878yT78G5434D8xtJ5NtSrdSjtpwJ7Ygyu8G67D6U5545y7D72fzUFKbcv7NpH7r
-
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/679/ktfi3Kd8ePhZe8ZNtL6z2dz9rfzTDKb6QVkm7zEKrD.m3u8
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2chdyKS/img-20190616-125035.png" tvg-group="CIENCIA Y CULTURA", DISCOVERY WORLD
 #EXTVLCOPT:http-user-agent=rNx7znJAj2jBkjrLVFRmX9bW8DKDvg8Y7ScN8feMh7xBOniYdEpLc7HrNPHmz8rDzgUu8CTeN2mu2d6r4VitBzZUhM78879y5hAJjiTJKDFJU89YchVk37AqS8Hyk9wQG8k7gPqT9DPM945mBm7GHgyu776yuT67TUT878yT78G5434D8xtJ5NtSrdSjtpwJ7Ygyu8G67D6U5545y7D72fzUFKbcv7NpH7r
-
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/556/ktfi3Kd8ePhZe8ZNtL6z2dz9rfzTDKb6QVkm7zEKrD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KD4s81z/Golden-logo.png" tvg-group="CINE Y SERIES", GOLDEN PLUS
 #EXTVLCOPT:http-user-agent=rNx7znJAj2jBkjrLVFRmX9bW8DKDvg8Y7ScN8feMh7xBOniYdEpLc7HrNPHmz8rDzgUu8CTeN2mu2d6r4VitBzZUhM78879y5hAJjiTJKDFJU89YchVk37AqS8Hyk9wQG8k7gPqT9DPM945mBm7GHgyu776yuT67TUT878yT78G5434D8xtJ5NtSrdSjtpwJ7Ygyu8G67D6U5545y7D72fzUFKbcv7NpH7r
-
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/617/ktfi3Kd8ePhZe8ZNtL6z2dz9rfzTDKb6QVkm7zEKrD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento" ,|Golden Edge
 #EXTVLCOPT:http-user-agent=rNx7znJAj2jBkjrLVFRmX9bW8DKDvg8Y7ScN8feMh7xBOniYdEpLc7HrNPHmz8rDzgUu8CTeN2mu2d6r4VitBzZUhM78879y5hAJjiTJKDFJU89YchVk37AqS8Hyk9wQG8k7gPqT9DPM945mBm7GHgyu776yuT67TUT878yT78G5434D8xtJ5NtSrdSjtpwJ7Ygyu8G67D6U5545y7D72fzUFKbcv7NpH7r
-
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/613/ktfi3Kd8ePhZe8ZNtL6z2dz9rfzTDKb6QVkm7zEKrD.m3u8
 
 #EXTINF:-1 tvg-logo="https://n9.cl/d4i0b" group-title="Entretenimiento",|GOLDEN PREMIER FULL HD
 #EXTVLCOPT:http-user-agent=rNx7znJAj2jBkjrLVFRmX9bW8DKDvg8Y7ScN8feMh7xBOniYdEpLc7HrNPHmz8rDzgUu8CTeN2mu2d6r4VitBzZUhM78879y5hAJjiTJKDFJU89YchVk37AqS8Hyk9wQG8k7gPqT9DPM945mBm7GHgyu776yuT67TUT878yT78G5434D8xtJ5NtSrdSjtpwJ7Ygyu8G67D6U5545y7D72fzUFKbcv7NpH7r
-
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/619/ktfi3Kd8ePhZe8ZNtL6z2dz9rfzTDKb6QVkm7zEKrD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento" ,|Golden
@@ -291,12 +262,10 @@ https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://vplay.club:8888/images/7be7ce1f87a8b20a86b144db26267e74.png" group-title="Entretenimiento",|SONY
 #EXTVLCOPT:http-user-agent=rNx7znJAj2jBkjrLVFRmX9bW8DKDvg8Y7ScN8feMh7xBOniYdEpLc7HrNPHmz8rDzgUu8CTeN2mu2d6r4VitBzZUhM78879y5hAJjiTJKDFJU89YchVk37AqS8Hyk9wQG8k7gPqT9DPM945mBm7GHgyu776yuT67TUT878yT78G5434D8xtJ5NtSrdSjtpwJ7Ygyu8G67D6U5545y7D72fzUFKbcv7NpH7r
-
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/754/ktfi3Kd8ePhZe8ZNtL6z2dz9rfzTDKb6QVkm7zEKrD.m3u8
 
 #EXTINF:-1 tvg-logo="https://n9.cl/1kozv" tvg-group="CINE Y SERIES", DHE
 #EXTVLCOPT:http-user-agent=rNx7znJAj2jBkjrLVFRmX9bW8DKDvg8Y7ScN8feMh7xBOniYdEpLc7HrNPHmz8rDzgUu8CTeN2mu2d6r4VitBzZUhM78879y5hAJjiTJKDFJU89YchVk37AqS8Hyk9wQG8k7gPqT9DPM945mBm7GHgyu776yuT67TUT878yT78G5434D8xtJ5NtSrdSjtpwJ7Ygyu8G67D6U5545y7D72fzUFKbcv7NpH7r
-
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/513/ktfi3Kd8ePhZe8ZNtL6z2dz9rfzTDKb6QVkm7zEKrD.m3u8
 
 #EXTINF:-1 tvg-logo="https://n9.cl/v7m57" tvg-group="ECUADOR", WOW TV
